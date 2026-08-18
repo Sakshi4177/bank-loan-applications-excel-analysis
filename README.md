@@ -156,6 +156,9 @@ Monthly funded amount trend
 7. Generate Insights → Translate numbers into business findings.
 
 
+## 📷 Dashboard Preview
+
+![Bank Loan Applications Dashboard]("C:\Users\saksh\Desktop\All folders\ITVEDANT DATASETS\Excel\Project\bank_loan_application_dashboard.png")
 
 
 
