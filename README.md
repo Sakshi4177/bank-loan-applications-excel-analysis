@@ -158,8 +158,7 @@ Monthly funded amount trend
 
 ## 📷 Dashboard Preview
 
-![Bank Loan Applications Dashboard]("C:\Users\saksh\Desktop\All folders\ITVEDANT DATASETS\Excel\Project\bank_loan_application_dashboard.png")
-
+<img width="1625" height="641" alt="image" src="https://github.com/user-attachments/assets/da0b4e0b-1198-427d-9fbd-de254b2238db" />
 
 
 
